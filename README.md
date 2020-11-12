@@ -4,13 +4,13 @@
 
 ### Design inspired by:
 
-#### 5 Gallon Bucket Aeroponic Seminar
-[![5 Gallon Aeroponic Bucket](https://img.youtube.com/vi/8eMt3kCUYnw/0.jpg)](https://www.youtube.com/watch?v=8eMt3kCUYnw&t=0s)
+- [5 Gallon Bucket Aeroponic Seminar](https://www.youtube.com/watch?v=8eMt3kCUYnw&t=0s)
 
-### Bill of Materials:
+- My Personal Bill of Materials for constructing the bucket can be found [here.](https://docs.google.com/spreadsheets/d/1GCScPDAFYFOd33M45uPV3TRQZUdUhXBXUN6jzlepzYU/edit?usp=sharing)
 
-[Can be found here](https://docs.google.com/spreadsheets/d/1GCScPDAFYFOd33M45uPV3TRQZUdUhXBXUN6jzlepzYU/edit?usp=sharing)
+- With the above tutorial and bill of materials you can get started with an aeroponic bucket system that will require manual measurements of water and nutrient concentrations.
 
 ---
-This repository contains the code modified to automatically monitor nutrients and water levels in the 5 gallon aeroponic bucket system
+
+This GitHub repository contains the code modified to automatically monitor nutrients and water levels in the 5 gallon aeroponic bucket system.
 
