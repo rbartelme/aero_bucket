@@ -14,3 +14,5 @@
 
 This GitHub repository contains the code modified to automatically monitor nutrients and water levels in the 5 gallon aeroponic bucket system.
 
+The calibration code is based off of Atlas Scientific's [examples.](https://www.hackster.io/atlasscientific/projects)
+
